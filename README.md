@@ -6,4 +6,4 @@ To view the proect, download and open "project.html". To see the code used to cr
 
 ## JPEG Files
 
-When running the R Markdown file used to create the HTML file, the code used to create the final plots for total team production from rookies was crashing the file. The same code was working fine in the R console, however, so I saved the plots as JPEG files and included them in the R Markdown document so they could be viewed in some capacity. I am still working to find a solution t thee problem so that the JPEG files will not be necessary.
+When running the R Markdown file used to create the HTML file, the code used to create the final plots for total team production from rookies was crashing the file. The same code was working fine in the R console, however, so I saved the plots as JPEG files and included them in the R Markdown document so they could be viewed in some capacity. I am still working to find a solution to the problem so that the JPEG files will not be necessary.
